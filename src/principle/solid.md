@@ -3,7 +3,7 @@
 S - single responsibility principle
 O - open/closed principle
 L - Liskov Substitution principle
-I - Interface Segmented Principle
+I - Interface Segmented principle
 D - Dependency Inversion principle
 
 ****
@@ -143,7 +143,7 @@ class FileInvoiceDao implements InvoiceDao {
 
 ****
 
-### L : Liskov Substitution Principle
+### L : Liskov Substitution principle
 
 
 If class B is subtype of class A, then we should be able to replace he object of A with B without breaking the behavior of the program.
@@ -186,7 +186,7 @@ Vehicle, EnginedVehicle
 
 
 *** 
-### Interface Segmented Principle
+### Interface Segmented principle
 
 
 
@@ -222,7 +222,7 @@ interface RestauantEmployee{
 
 *** 
 
-# Dependency Inversion Principle
+# Dependency Inversion principle
 
 
 
