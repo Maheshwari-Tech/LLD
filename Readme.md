@@ -137,3 +137,7 @@ Behavioral patterns take care of effective communication and the assignment of r
 - strategy
 - template
 - visitor
+
+Done : 
+1. Parking Lot 
+2. Cache
