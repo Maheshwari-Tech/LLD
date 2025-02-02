@@ -1,3 +1,0 @@
-# Decorator Pattern 
-
-Base Object 
